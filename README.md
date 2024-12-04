@@ -13,10 +13,10 @@ teletext service <file> | teletext interactive | java -jar teletext-pl-character
 
 ## Result
 
-**Without filtering**
+**Without filtering**  
 ![before](./media/before.png)
 
-**With filtering**
+**With filtering**  
 ![after](./media/after.png)
 
 # HTML
